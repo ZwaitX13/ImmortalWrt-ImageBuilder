@@ -53,6 +53,7 @@ PACKAGES="$PACKAGES luci-i18n-diskman-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-package-manager-zh-cn"
 PACKAGES="$PACKAGES luci-i18n-ttyd-zh-cn"
 PACKAGES="$PACKAGES openssh-sftp-server"
+PACKAGES="$PACKAGES kmod-usb-net kmod-usb-net-cdc-ether kmod-usb-net-rndis"
 # 文件管理器
 PACKAGES="$PACKAGES luci-i18n-filemanager-zh-cn"
 
